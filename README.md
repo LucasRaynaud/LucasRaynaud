@@ -4,5 +4,12 @@ Actuellement étudiant en seconde année de DUT Informatique à l'IUT du Limousi
 
 ## Langages connus
 
-<img src="./Icons/c.svg" width=75px height=75px><img src="./Icons/c++.svg" width=75px height=75px><img src="./Icons/java.svg" width=75px height=75px><img src="./Icons/php.svg" width=75px height=75px><img src="./Icons/mysql.svg" width=75px height=75px><img src="./Icons/html.svg" width=75px height=75px><img src="./Icons/css.svg" width=75px height=75px>
-
+<table border=none align=center>
+  <td><img src="./Icons/c.svg" width=75px height=75px></td>
+  <td><img src="./Icons/c++.svg" width=75px height=75px></td>
+  <td><img src="./Icons/java.svg" width=75px height=75px></td>
+  <td><img src="./Icons/php.svg" width=75px height=75px></td>
+  <td><img src="./Icons/mysql.svg" width=75px height=75px></td>
+  <td><img src="./Icons/html.svg" width=75px height=75px></td>
+  <td><img src="./Icons/css.svg" width=75px height=75px></td>
+</table>
