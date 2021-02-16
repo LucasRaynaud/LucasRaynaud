@@ -4,7 +4,7 @@ Actuellement étudiant en seconde année de DUT Informatique à l'IUT du Limousi
 
 ## Langages connus
 
-![C](./Icons/c.svg = 50x)
-![C++](./Icons/c++.svg = 25x)
-![Java](./Icons/java.svg = 20x)
+![C](./Icons/c.svg =50x)
+![C++](./Icons/c++.svg =25x)
+![Java](./Icons/java.svg =20x)
 
