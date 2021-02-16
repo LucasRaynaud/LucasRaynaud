@@ -4,7 +4,7 @@ Actuellement étudiant en seconde année de DUT Informatique à l'IUT du Limousi
 
 ## Langages connus
 
-![C](./Icons/c.svg =50x50)
+<img src="./Icons/c.svg" width=50px height=50px>
 ![C++](./Icons/c++.svg =25x25)
 ![Java](./Icons/java.svg =20x20)
 
