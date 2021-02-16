@@ -4,7 +4,7 @@ Actuellement étudiant en seconde année de DUT Informatique à l'IUT du Limousi
 
 ## Langages connus
 
-<table>
+<table border=none align=center>
   <td><img src="./Icons/c.svg" width=75px height=75px></td>
   <td><img src="./Icons/c++.svg" width=75px height=75px></td>
   <td><img src="./Icons/java.svg" width=75px height=75px></td>
